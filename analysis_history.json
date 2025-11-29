@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1764406908159,
+    "text": "wtf asdasd zxczx",
+    "fullText": "wtf asdasd zxczx",
+    "timestamp": "2025-11-29T09:01:48.159Z",
+    "rating": "Highly Toxic",
+    "severity": "high",
+    "scores": {
+      "identity_hate": 0.01666155457496643,
+      "insult": 0.2624312937259674,
+      "obscene": 0.8425286412239075,
+      "severe_toxic": 0.04235682263970375,
+      "threat": 0.009788806550204754,
+      "toxic": 0.9169962406158447
+    }
+  },
+  {
+    "id": 1764406160972,
+    "text": "You are moron:\nSend",
+    "fullText": "You are moron:\nSend",
+    "timestamp": "2025-11-29T08:49:20.972Z",
+    "rating": "Highly Toxic",
+    "severity": "high",
+    "scores": {
+      "identity_hate": 0.036352142691612244,
+      "insult": 0.765219509601593,
+      "obscene": 0.48054659366607666,
+      "severe_toxic": 0.03156460076570511,
+      "threat": 0.02884105034172535,
+      "toxic": 0.9502384662628174
+    }
+  },
+  {
+    "id": 1764406141173,
+    "text": "fuckersdsss",
+    "fullText": "fuckersdsss",
+    "timestamp": "2025-11-29T08:49:01.173Z",
+    "rating": "Highly Toxic",
+    "severity": "high",
+    "scores": {
+      "identity_hate": 0.025815647095441818,
+      "insult": 0.5176833868026733,
+      "obscene": 0.9618286490440369,
+      "severe_toxic": 0.18521736562252045,
+      "threat": 0.019885974004864693,
+      "toxic": 0.9651232361793518
+    }
+  },
+  {
+    "id": 1764405897528,
+    "text": "sadasdsadsad",
+    "fullText": "sadasdsadsad",
+    "timestamp": "2025-11-29T08:44:57.528Z",
+    "rating": "Clean / Non-toxic",
+    "severity": "low",
+    "scores": {
+      "identity_hate": 0.0014269365929067135,
+      "insult": 0.004405158571898937,
+      "obscene": 0.003480230923742056,
+      "severe_toxic": 0.0004008387913927436,
+      "threat": 0.0008126883185468614,
+      "toxic": 0.03221671283245087
+    }
+  },
+  {
+    "id": 1764405647513,
+    "text": "dewadsad",
+    "fullText": "dewadsad",
+    "timestamp": "2025-11-29T08:40:47.513Z",
+    "rating": "Clean / Non-toxic",
+    "severity": "low",
+    "scores": {
+      "identity_hate": 0.0006750674801878631,
+      "insult": 0.001451473101042211,
+      "obscene": 0.0014155161334201694,
+      "severe_toxic": 0.00037291328771971166,
+      "threat": 0.0006012141820974648,
+      "toxic": 0.005335879046469927
+    }
+  }
+]
